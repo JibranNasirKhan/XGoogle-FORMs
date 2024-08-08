@@ -2,64 +2,64 @@
 <testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-07T12:37:50 IST" name="Test Suite for Buildout" finished-at="2024-08-07T12:38:10 IST" duration-ms="19418">
+  <suite started-at="2024-08-08T13:48:03 IST" name="Test Suite for Buildout" finished-at="2024-08-08T13:48:32 IST" duration-ms="29405">
     <groups>
     </groups>
-    <test started-at="2024-08-07T12:37:50 IST" name="Test Cases for Buildout" finished-at="2024-08-07T12:38:10 IST" duration-ms="19418">
+    <test started-at="2024-08-08T13:48:03 IST" name="Test Cases for Buildout" finished-at="2024-08-08T13:48:32 IST" duration-ms="29405">
       <class name="demo.TestCases">
-        <test-method is-config="true" signature="startBrowser()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:37:50 IST" name="startBrowser" finished-at="2024-08-07T12:37:53 IST" duration-ms="2346" status="PASS">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:03 IST" name="startBrowser" finished-at="2024-08-08T13:48:14 IST" duration-ms="10791" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startBrowser -->
-        <test-method signature="TC_01_navigateToGoogleFormUrl()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:37:53 IST" name="TC_01_navigateToGoogleFormUrl" finished-at="2024-08-07T12:37:54 IST" duration-ms="1629" status="PASS">
+        <test-method signature="TC_01_navigateToGoogleFormUrl()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:14 IST" name="TC_01_navigateToGoogleFormUrl" finished-at="2024-08-08T13:48:17 IST" duration-ms="2735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_navigateToGoogleFormUrl -->
-        <test-method signature="TC_02_enterName()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:37:54 IST" name="TC_02_enterName" finished-at="2024-08-07T12:37:55 IST" duration-ms="1088" status="PASS">
+        <test-method signature="TC_02_enterName()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:17 IST" name="TC_02_enterName" finished-at="2024-08-08T13:48:17 IST" duration-ms="675" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_02_enterName -->
-        <test-method signature="TC_03_myAutomation()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:37:55 IST" name="TC_03_myAutomation" finished-at="2024-08-07T12:37:56 IST" duration-ms="618" status="PASS">
+        <test-method signature="TC_03_myAutomation()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:17 IST" name="TC_03_myAutomation" finished-at="2024-08-08T13:48:18 IST" duration-ms="514" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_03_myAutomation -->
-        <test-method signature="TC_04_howMuchAutomationExp()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:37:56 IST" name="TC_04_howMuchAutomationExp" finished-at="2024-08-07T12:37:56 IST" duration-ms="277" status="PASS">
+        <test-method signature="TC_04_howMuchAutomationExp()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:18 IST" name="TC_04_howMuchAutomationExp" finished-at="2024-08-08T13:48:18 IST" duration-ms="434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_04_howMuchAutomationExp -->
-        <test-method signature="TC_05_skillsLearnAtCrio()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:37:56 IST" name="TC_05_skillsLearnAtCrio" finished-at="2024-08-07T12:37:57 IST" duration-ms="211" status="PASS">
+        <test-method signature="TC_05_skillsLearnAtCrio()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:18 IST" name="TC_05_skillsLearnAtCrio" finished-at="2024-08-08T13:48:19 IST" duration-ms="465" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_05_skillsLearnAtCrio -->
-        <test-method signature="TC_06_titleToBeAddressed()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:37:57 IST" name="TC_06_titleToBeAddressed" finished-at="2024-08-07T12:38:01 IST" duration-ms="4192" status="PASS">
+        <test-method signature="TC_06_titleToBeAddressed()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:19 IST" name="TC_06_titleToBeAddressed" finished-at="2024-08-08T13:48:23 IST" duration-ms="4216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_06_titleToBeAddressed -->
-        <test-method signature="TC_07_dateSevenDaysAgo()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:38:01 IST" name="TC_07_dateSevenDaysAgo" finished-at="2024-08-07T12:38:03 IST" duration-ms="2105" status="PASS">
+        <test-method signature="TC_07_dateSevenDaysAgo()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:23 IST" name="TC_07_dateSevenDaysAgo" finished-at="2024-08-08T13:48:25 IST" duration-ms="2143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_07_dateSevenDaysAgo -->
-        <test-method signature="TC_08_currentTime24hrsFormat()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:38:03 IST" name="TC_08_currentTime24hrsFormat" finished-at="2024-08-07T12:38:03 IST" duration-ms="313" status="PASS">
+        <test-method signature="TC_08_currentTime24hrsFormat()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:25 IST" name="TC_08_currentTime24hrsFormat" finished-at="2024-08-08T13:48:25 IST" duration-ms="345" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_08_currentTime24hrsFormat -->
-        <test-method signature="TC_09_getAmazonUrl()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:38:03 IST" name="TC_09_getAmazonUrl" finished-at="2024-08-07T12:38:03 IST" duration-ms="321" status="PASS">
+        <test-method signature="TC_09_getAmazonUrl()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:25 IST" name="TC_09_getAmazonUrl" finished-at="2024-08-08T13:48:26 IST" duration-ms="328" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_09_getAmazonUrl -->
-        <test-method signature="TC_10_clickSubmit()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:38:03 IST" name="TC_10_clickSubmit" finished-at="2024-08-07T12:38:04 IST" duration-ms="834" status="PASS">
+        <test-method signature="TC_10_clickSubmit()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:26 IST" name="TC_10_clickSubmit" finished-at="2024-08-08T13:48:27 IST" duration-ms="1261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_10_clickSubmit -->
-        <test-method signature="TC_11_printSuccessMessage()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:38:04 IST" name="TC_11_printSuccessMessage" finished-at="2024-08-07T12:38:09 IST" duration-ms="5065" status="PASS">
+        <test-method signature="TC_11_printSuccessMessage()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:27 IST" name="TC_11_printSuccessMessage" finished-at="2024-08-08T13:48:32 IST" duration-ms="5087" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_11_printSuccessMessage -->
-        <test-method signature="testCase01()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:38:09 IST" name="testCase01" finished-at="2024-08-07T12:38:09 IST" duration-ms="1" status="PASS">
+        <test-method signature="testCase01()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:32 IST" name="testCase01" finished-at="2024-08-08T13:48:32 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase01 -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-07T12:38:09 IST" name="endTest" finished-at="2024-08-07T12:38:10 IST" duration-ms="357" status="PASS">
+        <test-method is-config="true" signature="endTest()[pri:0, instance:demo.TestCases@2415fc55]" started-at="2024-08-08T13:48:32 IST" name="endTest" finished-at="2024-08-08T13:48:32 IST" duration-ms="319" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
